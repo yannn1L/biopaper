@@ -1,0 +1,6 @@
+{
+  "name": "BioPaper Arena: Genetic Auto-Battler",
+  "description": "A cut-out papercraft genetic evolution auto-battler and battle royale simulation built with Pixi.js v8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
